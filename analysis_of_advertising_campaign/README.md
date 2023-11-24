@@ -83,3 +83,6 @@
 * Окупаемости рекламы с разбивкой по рекламным каналам. 
 
 7. Общий вывод.
+
+
+Используемые библиотеки: *pandas, numpy, datetime, timedelta, seaborn, pyplot, warnings*.
