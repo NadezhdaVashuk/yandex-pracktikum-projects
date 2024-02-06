@@ -69,5 +69,6 @@
 
 5. Общий вывод;
 
-6. Подготовка презентации.
 
+
+Использованные библиотеки: *pandas, matplotlib, seaborn, plotly.express, folium, json, MarkerCluster, plotly.*
