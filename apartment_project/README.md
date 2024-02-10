@@ -70,4 +70,4 @@
 
 5. Составление общего вывода о проделанном исследовании.
 
-Использованные библиотеки: pandas, matplotlib.pyplot, warnings.
+Использованные библиотеки: *pandas, matplotlib.pyplot, warnings*.
