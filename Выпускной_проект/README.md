@@ -56,3 +56,5 @@
 7. Приоритизация сегментов.
 
 8. Формирование рекомендаций (таргетированных) и общего вывода.
+
+Использованные библиотеки: *pandas, matplotlib, seaborn, plotly.express, scipy.stats, ztest, phik, np, graph_objects.*
